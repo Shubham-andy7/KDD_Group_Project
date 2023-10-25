@@ -1,2 +1,2 @@
-# KDD_Group_Project
+# KDD Group Project
 CS513C Final Group Project
